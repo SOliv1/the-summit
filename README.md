@@ -1,3 +1,5 @@
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/SOliv1/the-summit/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/SOliv1/the-summit/actions/workflows/jekyll-gh-pages.yml)
+
 # The Summit
 skiing-template-mountains
 
